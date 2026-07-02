@@ -1,0 +1,53 @@
+{
+  "1": {
+    "name": "Ali Khan",
+    "age": 18,
+    "course": ["Computer Science"],
+    "marks": { "math": 85, "physics": 80 }
+  },
+  "3": {
+    "name": "Usman Tariq",
+    "age": 19,
+    "course": ["Physics"],
+    "marks": { "mechanics": 76, "optics": 70 }
+  },
+  "4": {
+    "name": "Ayesha Malik",
+    "age": 21,
+    "course": ["Biology"],
+    "marks": { "botany": 88, "zoology": 84 }
+  },
+  "5": {
+    "name": "Bilal Hussain",
+    "age": 22,
+    "course": ["Chemistry"],
+    "marks": { "organic": 69, "inorganic": 65 }
+  },
+  "6": {
+    "name": "Asfand",
+    "age": 11,
+    "email": "check@gmail.com",
+    "course": ["FYP"],
+    "marks": { "English": 20, "Math": 35, "Science": 10 },
+    "total_marks": 65,
+    "grade": "D"
+  },
+  "2": {
+    "name": "Rafay",
+    "age": 28,
+    "email": "rafay12@gmail.com",
+    "course": ["Software Engineering"],
+    "marks": { "English": 65, "Math": 35, "Science": 60 },
+    "total_marks": 160,
+    "grade": "A"
+  },
+  "7": {
+    "name": "abc",
+    "age": 23,
+    "email": "user@example.com",
+    "course": ["string"],
+    "marks": { "English": 28, "Math": 35, "Science": 40 },
+    "total_marks": 103,
+    "grade": "A"
+  }
+}
